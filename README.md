@@ -14,4 +14,4 @@ HCF and LCM Calculator
 https://github.com/Moulya4332/bcs601_4mw23cs077
 
 ## Deployment URL
-Will be updated after deployment
+https://bcs601-4mw23cs077.onrender.com
